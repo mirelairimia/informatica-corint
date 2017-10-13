@@ -1,0 +1,173 @@
+Mini culegere
+Structura alternativa
+1. Dandu-se un numar n sa se afiseze daca este impar sau nu.
+2. Dandu-se un numar n sa se afiseze daca este divizibil cu 3.
+3. Se da un numar x. Sa se afle daca apartine intervalului [a,b] (2 variante: cu AND si fara AND)
+4. Sa se afiseze daca un numar n e divizibil cu : 5, 7.
+5. Sa se afiseze daca un numar a e divizibil cu : b; a+3 cu b; a-b cu 5; a*b cu c 49.
+6. Sa se afiseze diferenta dintre x si y daca x>y si suma lor daca x<y.
+7. Se citeste un numar natural care reprezinta timpul exprimat în minute. Scrieti programul
+care afiseaza timpul exprimat în ore si secunde.
+8. Scrieti un program care sa testeze un caracter introdus de la tastatura. Daca este litera
+mare, sa afiseze mesajul “Litera mare”, daca este litera mica sa se afiseze mesajul “Litera
+mica”, altfel sa se afiseze mesajul “Nu este litera”.
+9. Scrieti un program care citeste de la tastatura un numar natural cu trei cifre si care afiseaza
+apoi numarul obtinut prin eliminarea cifrei din mijloc.
+10. Scrieti un program care citeste de la tastatura un numar natural cu patru cifre si care
+afiseaza pe câte un rând cifrele numarului.
+11. Scrieti un program care citeste de la tastatura un numar natural cu patru cifre si care
+afiseaza numarul obtinut prin eliminarea cifrei sutelor. Modificati programul, astfel încât, sa
+afiseze numarul obtinut prin eliminarea cifrei zecilor.
+12. Se citesc de la tastatura trei numere a, b si c. Sa se afiseze valoarea maxima. Modificati
+programul, astfel încât, sa afiseze valoarea minima.
+13. Se citeste de la tastatura un numar n. Sa se verifice daca este un numar pozitiv sau negativ.
+14. Se citesc de la tastatura 3 numere a, b si c care reprezinta laturile unui triunghi oarecare. Sa
+se calculeze aria triunghiului. (formula lui Heron)
+15. Scrieti un program care converteste gradele Celsius în grade Fahrenheit conform formulei
+f=(9/5)*c+32. Datele se citesc de la tastatura.
+16. Se introduc 2 numere, a si b si un numar k. Sa se afiseze un mesaj daca fractia a/b poate fi
+simplificata prin k.
+17. Se introduc 2 numere. Sa se afiseze un mesaj daca aceste numere sunt consecutive.
+18. 1.Se citeste de la tastatura un numar natural întreg care reprezinta un an calendaristic. Sa se
+verifice daca numarul citit este un an bisect.
+19. Un elev primeste într-o zi trei note, nu toate bune. Se hotaraste ca, daca ultima nota este
+cel putin 8, sa le spuna parintilor toate notele primite iar daca este mai mica decât 8, sa le
+comunice doar nota cea mai mare dintre primele doua. Introduceti notele luate si afisati
+notele pe care le va comunica parintilor.
+20. Se citesc trei numere întregi x, y, z. Daca toate sunt pozitive sa se afiseze cel mai mare
+numar dintre al doilea si al treilea numar, în caz contrar sa se afiseze suma primelor doua
+numere.
+21. Scrieti un program care sa testeze un caracter introdus de la tastatura. Daca este litera
+mare, sa afiseze mesajul “Litera mare”, daca este litera mica sa se afiseze mesajul “Litera
+mica”, altfel sa se afiseze mesajul “Nu este litera”. 
+2
+22. Se citeste de la tastatura un numar natural întreg format din 3 cifre si care afiseaza cel mai
+mic numar care se poate forma din cifrele sale. Modificati programul, astfel încât, sa afiseze
+cel mai mare numar ce se poate forma din cifrele numarului citit.
+23. 1. Scrieti un algoritm (program) care sa determine cel mai mare dintre cele 3 numere întregi
+citite de la tastatura.
+24. Scrieti un algoritm (program) care sa determine cel mai mare dintre cele 4 numere întregi
+citite de la tastatura.
+25. Sa se determine dacã 3 numere întregi x, y, z sunt egale, Se va afisa DA sau NU.
+26. Sa se determine daca 3 numere întregi x, y, z sunt distincte. Se va afisa DA sau NU.
+27. Scrieti un program care citeste de la tastatura trei valori numerice a, b, c si apoi afiseaza pe
+ecran cea mai mare diferenta dintre oricare doua valori date.
+28. Exemplu. a=100, b=15, c=105. Se va afisa 90.
+29. 6. Se citeste un numar x natural din exact 3 cifre. Sâ se genereze cel mai mare numar care
+are aceleasi cifre ca el.
+Exemplu. x=192. Se va afisa 921 sau x=244. Se va afisa 442
+30. 7. Se citeste un numar x natural din exact 3 cifre. Sa se genereze cel mai mic numar care are
+aceleasi cifre ca el.
+Exemplu. x=l92. Se va afisa 129 sau x=242. Se va afisa 224 sau x=801. Se va
+afisa 108
+31. 8. Se citesc doua numere x si y cu exact 4 cifre fiecare. Sa se afiseze numarul care are suma
+cifrelor mai mare.
+Exemplu. X=1902 si y=8001. Se va afisa 1902.
+32. 9. Se citesc 4 numere întregi nenule a, b, c, d reprezentând numaratorii respectiv numitorii a
+doua fractii ( a/b si c/d ). Sa se afiseze fractia cu valoarea mai mare.
+Exemplu. a=2, b=3, c=4, d=5. Se va afisa: 4/5.
+33. Sa se determine daca 3 numere x, y, z naturale sunt pitagoreice (o valoare la patrat este
+egala cu suma patratelor celorlalte doua Valori). Se va afisa DA sau NU.
+34. Sa se determine daca 3 numere naturale citite de la tastatura pot reprezenta data
+calendaristica (cu formatul: ziua, luna, anul).
+35. Se citesc 3 numere intregi x, y, z. Sa se afiseze numerele in ordine crescatoare.
+36. Se citesc 4 numere întregi x, y, z, w. Sa se determine daca acestea pot forma o multime. Se
+va afisa un mesaj.
+37. Se citesc 4 numere întregi x, y, z, w. Sa se determine daca acestea pot forma o proportie. Se
+va afisa un mesaj.
+38. Sa se verifice daca un numar întreg x citit este par sau impar. Se va afisa un mesaj.
+39. Sa se determine daca un numar întreg x citit este multiplul lui y citit. Se va afisa un mesaj.
+40. Sa se determine daca X este multiplu pentru a, b si c.
+41. 18. Sa se determine daca x este divizor pentru a, b si c.
+42. 19. Se citesc a, b numere întregi nenule reprezentând numaratorul respectiv numitorul unei
+fractii (a/b) si k numar natural nenul. Sa se determine daca fractia a/b se simplifica prin k. În
+caz afirmativ se va afisa fractia obtinuta prin simplificare altfel se va afisa NU.
+Exemplu. a=24, b=40, k=8. Se va afisa: 3/5
+a=24, b=40, k=5. Se va afisa: NU.
+3
+43. Sa se determine ultima cifra a lui 9^x, unde x este numar natural citit de la tastatura.
+44. Sa se determine ultima cifra a lui 2^x, unde x este numar natural citit de la tastatura.
+45. Sa se determine ultima cifra a lui x^y, unde X si y sunt numere naturale citite de la tastatura.
+46. Sa se determine ultima cifra a expresiei 9^x+4^y, unde x si y sunt numere naturale citite de
+la tastatura.
+47. Sa se determine ultima cifra a expresiei 7^x * 8^y, unde X si y sunt numere naturale citite de
+la tastatura.
+48. Sa se determine daca punctul P(xl,yl) apartine interiorului segmentului [A,B],A(x2,y2) si
+B(x3,y3). Cele 6 valori reale: x1, yl, x2, y2, x3, y3 se citesc de la tastatura.
+49. Se citesc trei numere reale a, b, c. Sa se determine daca acestea pot constitui lungimile
+laturilor unui triunghi. In caz afirmativ se va afisa tipul triunghiului (oarecare, isoscel sau
+echilateral).
+50. Sa se determine în ce cadran se gaseste punctul P(x,y) unde X si y sunt numere reale citite
+de la tastatura.
+51. Se citesc de la tastatura coordonatele carteziene x si y ale celor trei vârfuri ale unui triunghi.
+Sa se scrie un algoritm (program) care Verifica daca acestea pot constitui vârfurile unui
+triunghi. În caz afirmativ se va afisa tipul triunghiului (oarecare, isoscel sau echilateral).
+Observatie: daca cele trei puncte sunt coliniare nu pot constitui un triunghi.
+52. Sa se determine dacã punctul P(xl,yl) apartine dreptei determinate de punctele A(x2,y2) si
+B(x3,y3). Cele 6 valori se citesc de la tastatura.
+53. Sa se determine daca doua drepte dl si d2 determinate de punctele A(xl,yl) si B(x2,y2)
+respectiv C(x3,y3) si D(x4,y4) se intersecteaza. Cele 8 valori se citesc de la tastatura. Se va
+afisa DA sau NU.
+54. Sa se determine în ce relatie se gaseste punctul A(xl,yl) cu cercul C de centru O(X2,y2) si raza
+R. Cele 5 valori se citesc de la tastatura. Se Va afisa: punctul este interior, exterior sau
+apartine cercului.
+55. Sa se determine în ce relatie se gasesc cercurile: Cl de centru Ol(xl,yl) si raza Rl si C2 de
+centru O2(x2,y2) si raza R2. Cele 6 Valori se citesc de la tastatura. Se va afisa: cercuri
+interioare, exterioare, tangente sau secante.
+56. Sa se determine daca 4 puncte pot forma un patrat. Se citesc coordonatele în plan ale celor
+4 puncte.
+57. Se citesc coordonatele carteziene pentru 3 puncte A, B si C necoliniare si coordonatele
+punctului M. Sa se determine pozitia punctului M fata de triunghi în interiorul triunghiului,
+în exteriorul triunghiului, pe una dintre laturi sau pe unu] din vârfuri.
+58. Se citesc coordonatele în plan a patru puncte A, B, C, D. Sa se determine daca ABCD este
+paralelogram.
+59. Se citesc coordonatele în plan a patru puncte A, B, C, D. Sa se determine daca ABCD este
+dreptunghi.
+60. Se citesc coordonatele în plan a patru puncte A, B, C, D. Sa se determine daca ABCD este
+romb.
+61. Se citesc coordonatele în plan a patru puncte A, B, C, D. Sa se determine daca ABCD este
+trapez
+62. Sa se determine valoarea sumei:
+1-2 +3 -4 +5 -6 +7 -8 + 9 -lO+….+/-n pentru n numar natural citit de la tastatura.
+4
+63. Sa se determine ultima cifra a produsului: l*2*3 *4….*n pentru n numar natural citit de la
+tastatura.
+64. Sa se determine valoarea functiei urmatoare pentru X, numar real citit de la tastatura.
+ x*x +1, pentru x<= -3
+ f(x)= x-2 , pentru x apartine ( -3 , 3)
+ x*x – 4x +5 , pentru x>=3
+65. Sa se rezolve ecuatia de gradul I cu o necunoscuta: ax+b=0 unde a si b sunt coeficienti reali
+cititi de la tastatura. Tratati toate situatiile posibile.
+66. Sa se rezolve ecuatia de gradul al II-lea cu doua necunoscute: ax2+bx+c=0 unde a, b, c sunt
+coefrcienti reali cititi de la tastatura. Tratati toate situatiile posibile.
+67. Sa se determine daca Valoarea x apartine intervalului [a,b] unde X, a si b sunt numere reale
+citite de la tastatura. Se va afisa DA sau NU.
+68. Se citesc 4 numere reale a, b, c, d reprezentând extremitatile a doua intervale de numere
+reale [a,b] respectiv [c,d]. Sa se determine dacã cele doua intervale se intersecteaza. În caz
+afirmativ se va afisa intervalul intersectie altfel se va afisa NU.
+69. Se citesc 6 numere reale a, b, c, d, e, f reprezentând extremitatile a trei intervale de numere
+reale [a,b], [c,d] respectiv [e,f]. Sa se determine daca cele tei intervale se intersecteaza. În
+caz afirmativ se va afisa intervalul intersectie altfel se va afisa Multimea vida.
+70. Fiind date doua numere naturale a si b, sa se verifice daca au aceeasi paritate.
+Ex: a= 78, b=60 au aceeasi paritate
+a=677, b=34 nu au aceeasi paritate
+71. Fiind date doua numere naturale a si k, sa se verifice daca a este divizibil sau nu cu k.
+Ex: a=890, k=10 se va afisa “a este divizibil cu k”
+a=87, k=5 se va afisa “a nu este divizibil cu k”
+72. Fiind date 3 numere naturale nenule a, b, k sa se verifice daca fractia a/b se simplifica prin k.
+În caz afirmativ se va afisa fractia simplificata.
+Ex: a=65, b=15, k=5 se va afisa “fractia 65/15 se poate simplifica cu 5, fractia simplificata
+este 13/3”
+a=27, b=10, k=3 se va afisa “fractia 27/10 nu se poate simplifica cu 3”
+73. Se citesc 4 numere reale a, b, c, d sa se determine cel mai mare numar si cel mai mic numar
+citit.
+Ex: a=20, b=18, c=5, d=20 cel mai mare numar este 20, iar cel mai mic numar este 5.
+74. Se dau trei numere. Afisati-le în ordine crescatoare.
+Ex: pentru 5 3 6 se va afisa 3 5 6
+75. Se dau doua numere întregi. Sa se testeze daca primul numar este predecesorul celui de al
+doilea numar si sa se afiseze mesaje corespunzatoare.
+Ex: 3 5 se va afisa “primul numar nu este predecesorul celui de al doilea”
+5 6 se va afisa “ primul numar este predecesorul celui de al doilea”
+76. Se dau doua numere naturale a si b cu cel mult trei cifre. Sa se afiseze numarul care are
+suma cifrelor mai mare.
+Ex: daca a=321, b=263 se va afisa 263.
