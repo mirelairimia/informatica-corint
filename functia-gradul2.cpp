@@ -23,7 +23,7 @@ int main()
     }
     else
     {
-    cout<<"Delta nu este mai mare ca 0, functia nu are radacini."    
+    cout<<"Delta nu este mai mare ca 0, functia nu are radacini.";    
     }
     
     return 0;
