@@ -19,3 +19,8 @@ main()
     }
     return 0;
 }
+//Dandu-se un numar n sa se afiseze daca este divizibil cu 3.
+// asa cum v-am spus trebuie sa respectam strict cerintele problemei
+//codul mai simplu ar fi asa:
+/*cin>>n
+if(n%3==0)cout<<"da"; else cout>>"nu";*/
